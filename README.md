@@ -3,7 +3,7 @@
 <br>
 Purpose of script is to export domains from Mark Monitor<br>
 <br>
-You can see the documentation for their REST API:<br>
+You can see the documentation for their REST API:
 [Mark Monitor REST API Swagger](https://domains.markmonitor.com/domains/setup/restapi/)
 <br>
 <br>This script exports active domains.  You can adjust the results by modifying the "fields" variable.<br>
