@@ -7,7 +7,7 @@ You can see the documentation for their REST API.  Note, I find that the documen
 
 [Mark Monitor REST API Swagger](https://domains.markmonitor.com/domains/setup/restapi/)
 
-<br>This script exports active domains.  You can adjust the results by modifying the "fields" variable.<br>
+<br>This script exports active domains.  You can adjust the results by modifying the <b><i>fields</i></b> variable.  See detailed information below in the <b>Usage Example</b> section.<br>
 <br>
 If your company requires two factor authentication, you can ask your Mark Monitor account rep to create a read-only API user account that won't require 2FA.<br>
 <br>
