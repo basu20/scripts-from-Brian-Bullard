@@ -41,10 +41,10 @@ The script performs these 4 things:<br>
 
 These are configurable items in the script:
 <br>
-<b>Proxy Information:</b><br>
+<b>1.  Proxy Information:</b><br>
 <br>
 <br>
-The script assumes you don't need to go through a proxy.  If you have a proxy setup at work, then edit the variables section of the script and put in the correct proxy for <i>http_proxy</i> & <i>https_proxy</i>.<br>
+The script assumes you don't need to go through a proxy.  If you have a proxy setup at work, then edit the variables section of the script and put in the correct proxy for <b><i>http_proxy</i></b> & <b><i>https_proxy</i></b>.<br>
 <br>
 You will also need to change three lines of the script from:<br>
 ```sh
@@ -56,7 +56,7 @@ proxies=proxyDict, verify=False
 ```
 
 <br>
-<b>Search data used:</b><br>
+<b>2.  Search data used:</b><br>
 <br>
 The script adds the domain to the output file if the value is one of these:<br>
 <br>
@@ -69,7 +69,7 @@ The script adds the domain to the output file if the value is one of these:<br>
 
 To view the complete list of possible domain statuses, look at [Mark Monitor Domain Statuses](https://domains.markmonitor.com/domains/setup/restapi/#!/Domain/findDomainById)
 
-<br>If you want to adjust the domains returned, edit the <i>fields</i> variable.<br>
+<br>If you want to adjust the domains returned, edit the <b><i>fields</i></b> variable.<br>
 
 ## Release History
 
