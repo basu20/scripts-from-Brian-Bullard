@@ -23,7 +23,7 @@ The following modules installed:<br>
 3.  requests<br>
 <br>
 <br>
-## Usage example<br>
+## Usage example
 <br>
 To run this from command line:<br>
 <br>
