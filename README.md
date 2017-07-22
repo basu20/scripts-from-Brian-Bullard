@@ -67,7 +67,7 @@ The script adds the domain to the output file if the value is one of these:<br>
 4.  registrar hold<br>
 5.  registered premium locked<br>
 6.  registered super locked<br>
-<br>
+
 To view the complete list of possible domain statuses, look at [Mark Monitor Domain Statuses](https://domains.markmonitor.com/domains/setup/restapi/#!/Domain/findDomainById)
 
 
