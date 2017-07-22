@@ -33,6 +33,31 @@ To run this from command line:<br>
 ```
 <br>
 
+The script performs these 4 things:<br>
+1.  Creates a session
+2.  Login with username/password and get a cookie
+3.  Search for all domains with specific status
+4.  Log out
+
+These are configurable items in the script:
+<br>
+Proxy Information:<br>
+The script assumes you don't need to go through a proxy.  If you have a proxy setup at work, then edit the variables section of the script and put in the correct proxy for http_proxy & https_proxy.<br>
+<br>
+You will also need to change three lines of the script from:<br>
+```sh
+verify=False
+```
+to<br>
+```sh
+proxies=proxyDict, verify=False
+```
+
+<br>
+
+
+
+
 ## Release History
 
 * 0.0.1
