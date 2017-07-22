@@ -22,9 +22,9 @@ The following modules installed:<br>
 2.  json<br>
 3.  requests<br>
 <br>
-<br>
+
 ## Usage example
-<br>
+
 To run this from command line:<br>
 <br>
 ```sh
