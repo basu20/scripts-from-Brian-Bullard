@@ -43,6 +43,7 @@ These are configurable items in the script:
 <br>
 <b>Proxy Information:</b><br>
 <br>
+<br>
 The script assumes you don't need to go through a proxy.  If you have a proxy setup at work, then edit the variables section of the script and put in the correct proxy for <i>http_proxy</i> & <i>https_proxy</i>.<br>
 <br>
 You will also need to change three lines of the script from:<br>
@@ -55,7 +56,19 @@ proxies=proxyDict, verify=False
 ```
 
 <br>
+<b>Search data used:</b><br>
+<br>
+<br>
+The script adds the domain to the output file if the value is one of these:<br>
+<br>
+1.  abandoned
+2.  registered locked
+3.  registered unlocked
+4.  registrar hold
+5.  registered premium locked
+6.  registered super locked
 
+To view the complete list of possible domain statuses, look at [Mark Monitor Domain Statuses](https://domains.markmonitor.com/domains/setup/restapi/#!/Domain/findDomainById)
 
 
 
