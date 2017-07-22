@@ -41,7 +41,7 @@ The script performs these 4 things:<br>
 
 These are configurable items in the script:
 <br>
-Proxy Information:<br>
+<b>Proxy Information:</b><br>
 The script assumes you don't need to go through a proxy.  If you have a proxy setup at work, then edit the variables section of the script and put in the correct proxy for http_proxy & https_proxy.<br>
 <br>
 You will also need to change three lines of the script from:<br>
