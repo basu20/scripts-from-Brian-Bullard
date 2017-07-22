@@ -61,13 +61,13 @@ proxies=proxyDict, verify=False
 <br>
 The script adds the domain to the output file if the value is one of these:<br>
 <br>
-1.  abandoned
-2.  registered locked
-3.  registered unlocked
-4.  registrar hold
-5.  registered premium locked
-6.  registered super locked
-
+1.  abandoned<br>
+2.  registered locked<br>
+3.  registered unlocked<br>
+4.  registrar hold<br>
+5.  registered premium locked<br>
+6.  registered super locked<br>
+<br>
 To view the complete list of possible domain statuses, look at [Mark Monitor Domain Statuses](https://domains.markmonitor.com/domains/setup/restapi/#!/Domain/findDomainById)
 
 
