@@ -5,7 +5,7 @@ Purpose of script is to export domains from Mark Monitor<br>
 <br>
 You can see the documentation for their REST API.  Note, I find that the documentation is only viewable on Firefox and Chrome.  It doesn't work with Safari for my system.
 
-[Mark Monitor REST API Swagger](https://domains.markmonitor.com/domains/setup/restapi/)
+[Mark Monitor REST API Swagger](https://domains.markmonitor.com/domains/setup/restapi/ target="_blank")
 
 <br>This script exports active domains.  You can adjust the results by modifying the "fields" variable.<br>
 <br>
