@@ -58,7 +58,6 @@ proxies=proxyDict, verify=False
 <br>
 <b>Search data used:</b><br>
 <br>
-<br>
 The script adds the domain to the output file if the value is one of these:<br>
 <br>
 1.  abandoned<br>
@@ -70,7 +69,7 @@ The script adds the domain to the output file if the value is one of these:<br>
 
 To view the complete list of possible domain statuses, look at [Mark Monitor Domain Statuses](https://domains.markmonitor.com/domains/setup/restapi/#!/Domain/findDomainById)
 
-
+<br>If you want to adjust the domains returned, edit the <i>fields</i> variable.<br>
 
 ## Release History
 
