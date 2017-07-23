@@ -17,7 +17,7 @@ Purpose and usage
 ================================================================================
 Written by Brian Bullard, https://github.com/ddiguy/
 
-https://twitter.com/BrianBullard94
+https://twitter.com/ddi_dns
 
 Purpose of script is to export domains from Mark Monitor
 
