@@ -78,7 +78,7 @@ To view the complete list of possible domain statuses, look at [Mark Monitor Dom
 
 ## Meta
 
-Brian Bullard – [@BrianBullard94](https://twitter.com/BrianBullard94) – dns.dhcp.ipam@gmail.com
+Brian Bullard – dns.dhcp.ipam@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
